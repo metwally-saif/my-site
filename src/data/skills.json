@@ -1,0 +1,16 @@
+[
+    { "id": 1, "name": "CircleCI", "level": 70 },
+    { "id": 2, "name": "BitBucket", "level": 85 },
+    { "id": 3, "name": "TravisCI", "level": 70 },
+    { "id": 4, "name": "Python", "level": 90 },
+    { "id": 5, "name": "Angular.js", "level": 90 },
+    { "id": 6, "name": "Vue.js", "level": 75 },
+    { "id": 7, "name": "React.js", "level": 95 },
+    { "id": 8, "name": "Node.js", "level": 80 },
+    { "id": 9, "name": "HTML", "level": 95 },
+    { "id": 10, "name": "CSS", "level": 90 },
+    { "id": 11, "name": "Django", "level": 85 },
+    { "id": 12, "name": "SQL", "level": 75 },
+    { "id": 13, "name": "RESTful APIs", "level": 90 },
+    { "id": 14, "name": "Agile/Scrum", "level": 75 }
+  ]
